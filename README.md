@@ -22,10 +22,7 @@
 - 💼 **Current Focus:** Java Web Development
 - 🎯 **Role:** Software Engineer | Backend Developer
 
-### 🌱 Currently Learning
-- ☕ Spring Boot
-- ⚛️ ReactJS  
-- 🔧 Microservices Architecture
+
 
 </td>
 <td width="50%" valign="top">
@@ -34,14 +31,8 @@
 
 - 🔐 Backend Development
 - 🌐 Fullstack Applications
-- 🏗️ Clean Architecture
-- 📐 System Design
-- 🧩 Problem Solving
 
-### 💡 Philosophy
-> *"Code is poetry written in logic"*
 
-> *"Build today, innovate tomorrow 🚀"*
 
 </td>
 </tr>

@@ -30,4 +30,3 @@ Currently focusing on **Java Web Development** and **Backend Engineering**.
 
 ---
 
-⭐ *Always learning new things and improving every day.*
